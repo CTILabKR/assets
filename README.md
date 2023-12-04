@@ -1,0 +1,17 @@
+# 폴더 목록
+1. first test git book
+2. genians dti poc result
+3. distil-bert, binary svm
+4. google docs access
+5. svm
+6. ?? esoinn
+7. cnn
+8. it/ot
+9. auto encoder
+10. ot
+11. it
+12. esoinn
+13. genians dti poc result (2랑 같음)
+14. shinhan 관련
+15. autolabeling
+16. data schema
