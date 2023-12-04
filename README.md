@@ -1,4 +1,5 @@
 # 폴더 목록
+
 1. first test git book
 2. genians dti poc result
 3. distil-bert, binary svm
@@ -15,3 +16,5 @@
 14. shinhan 관련
 15. autolabeling
 16. data schema
+17. dti.ai dashboard
+18. DTI 서버장비
