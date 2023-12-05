@@ -18,3 +18,4 @@
 16. data schema
 17. dti.ai dashboard
 18. DTI 서버장비
+19. XAI
