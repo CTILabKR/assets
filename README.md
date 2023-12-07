@@ -21,7 +21,7 @@
 19. XAI
 20. threat scoring
 21. dti.ai ai analysis
-22. dash board management
+22. dash board smanagement
 23. distilBERT benchmark
 24. ctilab dataset
 25. 패킷 수집시 트러블 이슈 해결 관련
