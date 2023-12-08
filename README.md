@@ -27,9 +27,6 @@
 23. distilBERT benchmark
 24. ctilab dataset
 25. 패킷 수집시 트러블 이슈 해결 관련
-<<<<<<< HEAD
-26. 상장 및 인증서
-=======
 26. ssh key 생성
 27. tabix 접속
->>>>>>> 99af9a4a32e06c80b5bd21e4a43eeee8dc019abc
+28. 상장 및 인증서
