@@ -30,4 +30,5 @@
 29. dti 서버 사양
 30. health checker
 31. EMOB
-32. DTI.ai log on BOX
+32. DTI.ai logo on BOX
+33. 기대 효과
