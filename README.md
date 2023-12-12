@@ -30,3 +30,4 @@
 29. dti 서버 사양
 30. health checker
 31. EMOB
+32. DTI.ai log on BOX
