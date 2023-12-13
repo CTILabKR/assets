@@ -32,3 +32,4 @@
 31. EMOB
 32. DTI.ai logo on BOX
 33. 기대 효과
+34. DTI STRENGTHS imgs
