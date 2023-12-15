@@ -1,3 +1,8 @@
+# commit message rule
+- 상태(add, edit 등): 어떤 이미지에 대한 건지 #넘버링
+  - ex) add: DTI.ai 메뉴얼 #100
+  - 넘버링은 300부터 시작하도록 하겠습니다. 
+  
 # 폴더 목록
 1. first test git book
 2. genians dti poc result
