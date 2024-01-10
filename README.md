@@ -39,4 +39,6 @@
 33. 기대 효과
 34. DTI STRENGTHS imgs
 35. Model Benchmark
+36. WAF to Maping(shinhan)
+37. shinhan DTI event analysis
 
